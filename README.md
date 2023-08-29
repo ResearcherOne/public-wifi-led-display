@@ -1,5 +1,8 @@
 # public-wifi-led-display
 
+# Wi-Fi LED Display
+![Architecture](https://raw.githubusercontent.com/ResearcherOne/public-wifi-led-display/main/the-device.jpg)
+
 # Architecture
 ![Architecture](https://raw.githubusercontent.com/ResearcherOne/public-wifi-led-display/main/architecture.png)
 
