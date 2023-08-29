@@ -1,5 +1,8 @@
 # public-wifi-led-display
 
+# Architecture
+![alt text](https://github.com/resaercherOne/public-wifi-led-display/blob/main/architecture.png?raw=true)
+
 # Step 1 - Configure MQTT Server
 - Sign up for HiveMQTT and create a free MQTT server (or just use your own).
 - Create two MQTT users on your new MQTT servers. One for IoT device and one for Backend application.
