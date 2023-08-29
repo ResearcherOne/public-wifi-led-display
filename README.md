@@ -6,6 +6,12 @@
 # Architecture
 ![Architecture](https://raw.githubusercontent.com/ResearcherOne/public-wifi-led-display/main/architecture.png)
 
+# Shopping List
+- Nodemcu (V2 CP2102 version): https://www.aliexpress.com/item/32656401198.html
+- LED Display: https://www.aliexpress.com/item/32689479860.html
+- Breadboard: https://www.aliexpress.com/item/1742546890.html
+- Wires (Male-Male): https://de.aliexpress.com/item/1699267300.html
+
 # Step 1 - Configure MQTT Server
 - Sign up for HiveMQTT and create a free MQTT server (or just use your own).
 - Create two MQTT users on your new MQTT servers. One for IoT device and one for Backend application.
