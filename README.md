@@ -1,7 +1,7 @@
 # public-wifi-led-display
 
 # Architecture
-![alt text](https://github.com/resaercherOne/public-wifi-led-display/blob/main/architecture.png?raw=true)
+![Architecture](https://raw.githubusercontent.com/ResearcherOne/public-wifi-led-display/main/architecture.png)
 
 # Step 1 - Configure MQTT Server
 - Sign up for HiveMQTT and create a free MQTT server (or just use your own).
